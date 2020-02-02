@@ -22,3 +22,10 @@ export function choosColor(color) {
 }
 ```
 6. Experience: I have no work experience in programming.
+7. Education:
+ * [RSSchool 2019Q3](https://app.rs.school)
+ * [HTML Academy](https://htmlacademy.ru/courses)
+ * [Hexlet javascript courses](https://ru.hexlet.io/courses/introduction_to_programming)
+ * [CS50 courses](https://javarush.ru/quests/QUEST_HARVARD_CS50).
+8. English: [Studied in Czech technical university in Prague](https://international.cvut.cz/for-incomers/erasmus-and-exchange/). Studying by ERAZMUS program. 
+Made course projects of metal arch and beam bridges, extended knowledge of metal and reinforced concrete constructions. Learned system of dynamics, acoustic and historical building diagnosis. Studding was in English.
